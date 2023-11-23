@@ -65,7 +65,8 @@ There are 10 classes to detect from the dataset:
 
 ### **5.  Open a Notebook:**
 
-- In the Jupyter Notebook interface, open **ppe_kit_detection.ipynb** notebook.
+- open **for_train.ipynb** notebook for training of model.
+- open **yolov8-safety-helmet-detection.ipynb** for running the model and outputs.
 
 ## File Hierarchy 📝
 
