@@ -105,8 +105,13 @@ There are 10 classes to detect from the dataset:
 
 The training of YoloV8n model was done for 100 epochs and was completed in 4.719 hours. After training, we get the following results:
 
-![file7edr7azyrzpkdm2jkvb-1019857-1629139073](https://github.com/siddhiwadetiwar/Personal-Protective-Equipment-Using-Python/assets/125651663/c093d6e6-bb3b-449b-8195-be18fc56ae97)
-![istockphoto-1180989481-612x612](https://github.com/siddhiwadetiwar/Personal-Protective-Equipment-Using-Python/assets/125651663/e9b6b87f-2900-4efc-81ef-cdf3781a177d)
+![istockphoto-1180989481-612x612](https://github.com/siddhiwadetiwar/Personal-Protective-Equipment-Using-Deep-Learning/assets/125651663/e42075d1-1d7f-49f8-9c11-ec163b12dc61)
+
+
+<br> ![file7edr7azyrzpkdm2jkvb-1019857-1629139073](https://github.com/siddhiwadetiwar/Personal-Protective-Equipment-Using-Deep-Learning/assets/125651663/ddae25ba-6baf-4fec-88c2-41720454a3a7)
+
+
+
 
 
 
